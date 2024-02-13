@@ -1,0 +1,19 @@
+*,
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.board {
+  width: 100px;
+  height: 100px;
+}
+button {
+  width: 50px;
+  height: 50px;
+  border: none;
+}
+.board-row {
+  height: 50px;
+  padding: 0;
+}
